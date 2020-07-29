@@ -2,23 +2,25 @@
 
 ## Thinks about me
 
--   🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro)
--   🌱 I’m currently learning **React**
--   👯 I’m looking to collaborate on [SomeName2](https://github.com/MeloncholyShiro)
--   🤔 I’m looking for help with [SomeName3](https://github.com/MeloncholyShiro)
--   👨‍💻 All of my projects are available at [mrSpeedWagon.com](mrSpeedWagon.com)
--   📝 I regularity write articles on [mrSpeedWagon.com](mrSpeedWagon.com)
--   💬 Ask me about **react, vue, nuxt**
--   📫 How to reach me **Meloncholy.Shiro@yandex.com**
--   ⚡ Fun fact **I'm learning 12 h every day :D**
+- 🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro)
+- 🌱 I’m currently learning **React**
+- 👯 I’m looking to collaborate on [SomeName2](https://github.com/MeloncholyShiro)
+- 🤔 I’m looking for help with [SomeName3](https://github.com/MeloncholyShiro)
+- 👨‍💻 All of my projects are available at [mrSpeedWagon.com](mrSpeedWagon.com)
+- 📝 I regularity write articles on [mrSpeedWagon.com](mrSpeedWagon.com)
+- 💬 Ask me about **react, vue, nuxt**
+- 📫 How to reach me **Meloncholy.Shiro@yandex.com**
+- ⚡ Fun fact **I'm learning 12 h every day :D**
+
+>If icon **Colorize** it mean i can fully work this stuff, if color **Monochrome** it mean i only **Learn** this item
 
 ## Connect with me
 
 [<img align="left" alt="MeloncholyShiro | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MeloncholyShiro | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MeloncholyShiro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MeloncholyShiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MeloncholyShiro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MeloncholyShiro | YouTube" width="22px" src="https://api.iconify.design/logos:youtube.svg" />][youtube]
+[<img align="left" alt="MeloncholyShiro | Twitter" width="22px" src="https://api.iconify.design/logos:twitter.svg" />][twitter]
+[<img align="left" alt="MeloncholyShiro | LinkedIn" width="22px" src="https://api.iconify.design/logos:linkedin.svg" />][linkedin]
+[<img align="left" alt="MeloncholyShiro | Instagram" width="22px" src="https://api.iconify.design/logos:instagram.svg" />][instagram]
 
 <br />
 
@@ -26,7 +28,7 @@
 
 ### Writing code on
 
-[<img align="left" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][#]
+[<img align="left" alt="Visual Studio Code" width="22px" src="https://api.iconify.design/logos:visual-studio-code.svg" />][#]
 
 <br />
 
@@ -46,9 +48,9 @@
 
 ### Front-End
 
-[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][#]
-[<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][#]
-[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][#]
+[<img align="left" alt="HTML" width="22px" src="https://api.iconify.design/logos:html-5.svg" />][#]
+[<img align="left" alt="CSS3" width="22px" src="https://api.iconify.design/logos:css-3.svg" />][#]
+[<img align="left" alt="JavaScript" width="22px" src="https://api.iconify.design/logos:javascript.svg" />][#]
 [<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][#]
 [<img align="left" alt="Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][#]
 [<img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />][#]
@@ -57,20 +59,20 @@
 
 ### CSS-Frameworks
 
-[<img align="left" alt="SASS | SCSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />][#]
+[<img align="left" alt="SASS | SCSS" width="22px" src="https://api.iconify.design/logos:sass.svg" />][#]
 [<img align="left" alt="Tailwind CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" />][#]
 [<img align="left" alt="Vuetify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vuetify.svg" />][#]
-[<img align="left" alt="Bulma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bulma.svg" />][#]
-[<img align="left" alt="Bootstrap 5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][#]
+[<img align="left" alt="Bulma" width="22px" src="https://api.iconify.design/logos:bulma.svg" />][#]
+[<img align="left" alt="Bootstrap 5" width="22px" src="https://api.iconify.design/logos:bootstrap.svg" />][#]
 
 <br />
 
 ### Back-End
 
-[<img align="left" alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />][#]
+[<img align="left" alt="NodeJS" width="22px" src="https://api.iconify.design/logos:nodejs-icon.svg" />][#]
 [<img align="left" alt="Deno" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deno.svg" />][#]
 [<img align="left" alt="Nodemon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodemon.svg" />][#]
-[<img align="left" alt="Express" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" />][#]
+[<img align="left" alt="Express" width="22px" src="https://api.iconify.design/logos:express.svg" />][#]
 [<img align="left" alt="GraphQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />][#]
 
 <br />
