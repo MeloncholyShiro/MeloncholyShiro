@@ -17,7 +17,7 @@
 ## Connect with me
 
 [<img align="left" alt="MeloncholyShiro | Website" height="25px" src="https://api.iconify.design/noto-v1:globe-showing-europe-africa.svg" />][website]
-[<img align="left" alt="MeloncholyShiro | YouTube" height="25px" src="https://api.iconify.design/logos:youtube.svg" />][youtube]
+[<img align="left" alt="MeloncholyShiro | VK" height="25px" src="https://api.iconify.design/logos:vk.svg" />][vk]
 [<img align="left" alt="MeloncholyShiro | Twitter" height="25px" src="https://api.iconify.design/logos:twitter.svg" />][twitter]
 [<img align="left" alt="MeloncholyShiro | LinkedIn" height="25px" src="https://api.iconify.design/logos:linkedin.svg" />][linkedin]
 [<img align="left" alt="MeloncholyShiro | Instagram" height="25px" src="https://api.iconify.design/logos:instagram-icon.svg" />][instagram]
@@ -152,6 +152,7 @@
 [website]: https://meloncholyshiro.github.io
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
+[vk]: https://vk.com/speedwagon_s
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
 [#]: https://github.com/MeloncholyShiro
