@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api?username=meloncholyshiro
+!(https://github-readme-stats.vercel.app/api?username=meloncholyshiro)
 
 <!--START_SECTION:waka-->
 
