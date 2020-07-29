@@ -41,12 +41,11 @@
 <a href="https://medium.com/@meloncholyshiro_medium" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@meloncholyshiro_medium" height="20" width="20" /></a>
 <a href="https://www.youtube.com/c/meloncholyshiro_youtube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="meloncholyshiro_youtube" height="20" width="20" /></a>
 
+<a href="https://github.com/meloncholyshiro/cpsproject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula"></a>
+<a href="https://github.com/meloncholyshiro/cpsproject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula"></a>
+<a href="https://github.com/meloncholyshiro/cpsproject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula"></a>
+<a href="https://github.com/meloncholyshiro/cpsproject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula"></a>
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
 
 <!--START_SECTION:waka-->
 
