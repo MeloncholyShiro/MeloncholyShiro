@@ -88,6 +88,7 @@
 
 <br />
 
+---
 <!-- <p align="center">
 <a href="https://codepen.io/meloncholyshiro_codepan" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="meloncholyshiro_codepan" height="20" width="20" />
@@ -130,14 +131,14 @@
 </a>
 </p> -->
 
-[<img align="left" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
-[<img align="left" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
-[<img align="left" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
-[<img align="left" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
 
 <br />
 
-[<img align="center" alt="meloncholyshiro | speedwagon" src="https://github-readme-stats.vercel.app/api?username=meloncholyshiro&show_icons=true&theme=dracula" />][cpsproject]
+[<img alt="meloncholyshiro | speedwagon" src="https://github-readme-stats.vercel.app/api?username=meloncholyshiro&show_icons=true&theme=dracula" />][cpsproject]
 
 <br />
 
