@@ -14,77 +14,68 @@
 
 ## Connect with me
 
-[<img align="left" alt="codeSTACKr.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="MeloncholyShiro | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="MeloncholyShiro | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="center" alt="MeloncholyShiro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="MeloncholyShiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="MeloncholyShiro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ## Languages and Tools
 
-<p align="left">
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20" />
-</a>
-<a href="#">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20" />
-</a>
-</p>
+### Writing code on
 
-<p align="center">
+[<img align="center" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][#]
+
+### Building
+
+[<img align="center" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />][#]
+
+### Deploy
+
+[<img align="center" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][#]
+[<img align="center" alt="Nginx" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />][#]
+[<img align="center" alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][#]
+
+### Front-End
+
+[<img align="center" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />][#]
+[<img align="center" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][#]
+[<img align="center" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][#]
+[<img align="center" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][#]
+[<img align="center" alt="Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][#]
+[<img align="center" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue.js.svg" />][#]
+
+### CSS-Frameworks
+
+[<img align="center" alt="SASS | SCSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />][#]
+
+---
+
+[<img align="center" alt="Tailwind CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" />][#]
+[<img align="center" alt="Vuetify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vuetify.svg" />][#]
+[<img align="center" alt="Bulma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bulma.svg" />][#]
+[<img align="center" alt="Bootstrap 5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][#]
+
+### Back-End
+
+[<img align="center" alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node.js.svg" />][#]
+[<img align="center" alt="Deno" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deno.svg" />][#]
+[<img align="center" alt="Nodemon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodemon.svg" />][#]
+[<img align="center" alt="Express" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" />][#]
+[<img align="center" alt="GraphQL" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/express/graphql.svg" />][#]
+
+### Data Bases
+
+[<img align="center" alt="mySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][#]
+[<img align="center" alt="MongoDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][#]
+
+### Full-Stack (SSR)
+
+[<img align="center" alt="NuxtJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nuxt.js.svg" />][#]
+
+<!-- <p align="center">
 <a href="https://codepen.io/meloncholyshiro_codepan" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="meloncholyshiro_codepan" height="20" width="20" />
 </a>
@@ -124,7 +115,7 @@
 <a href="https://www.youtube.com/c/meloncholyshiro_youtube" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="meloncholyshiro_youtube" height="20" width="20" />
 </a>
-</p>
+</p> -->
 
 [![About CPSProject](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
 [![About CPSProject](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
@@ -139,12 +130,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meloncholyshiro" alt="meloncholyshiro" /> </p>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://meloncholyshiro.github.io
+[twitter]: https://twitter.com/
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in/
+[#]: https://github.com/MeloncholyShiro
