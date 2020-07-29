@@ -86,6 +86,8 @@
 
 [<img align="left" alt="NuxtJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nuxt-dot-js.svg" />][#]
 
+<br />
+
 <!-- <p align="center">
 <a href="https://codepen.io/meloncholyshiro_codepan" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="meloncholyshiro_codepan" height="20" width="20" />
@@ -128,15 +130,18 @@
 </a>
 </p> -->
 
-[![About CPSProject](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
-[![About CPSProject](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
-[![About CPSProject](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
-[![About CPSProject](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
+[<img align="center" alt="MeloncholyShiro | CPSProject" width="22px" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][CPSProject]
+[<img align="center" alt="MeloncholyShiro | CPSProject" width="22px" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][CPSProject]
+[<img align="center" alt="MeloncholyShiro | CPSProject" width="22px" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][CPSProject]
+[<img align="center" alt="MeloncholyShiro | CPSProject" width="22px" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][CPSProject]
 
-![meloncholyshiro](https://github-readme-stats.vercel.app/api?username=meloncholyshiro&show_icons=true&theme=dracula)
+<br />
+
+[<img align="center" alt="meloncholyshiro | speedwagon" width="22px" src="https://github-readme-stats.vercel.app/api?username=meloncholyshiro&show_icons=true&theme=dracula" />][CPSProject]
+
+<br />
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meloncholyshiro" alt="meloncholyshiro" /> </p>
@@ -147,3 +152,4 @@
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
 [#]: https://github.com/MeloncholyShiro
+[CPSProject]: https://github.com/meloncholyshiro/cpsproject
