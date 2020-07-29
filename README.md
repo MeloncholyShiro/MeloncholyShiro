@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=meloncholyshiro&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula)](https://github.com/meloncholyshiro/cpsproject)
 
 <!--START_SECTION:waka-->
 
