@@ -1,4 +1,5 @@
 name: Update Waka stats
+
 on:
   schedule:
     # Runs every day at 00:00 UTC
@@ -9,7 +10,7 @@ jobs:
     name: Update Waka stats
     runs-on: ubuntu-latest
     steps:
-      - uses: simonpham/waka-readme-stats@master
+      - uses: meloncholyshiro/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -17,4 +18,5 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
-          SHOW_EDITORS: "False"
+          SHOW_EDITORS: "True"
+          SHOW_COMMIT: 'True'
