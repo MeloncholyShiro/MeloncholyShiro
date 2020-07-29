@@ -1,8 +1,9 @@
-# Hi 👋, I'm Ivan aka SpeedWagon or MeloncholyShiro
+### Hi there 👋
 
-### Currectly i'm learning Front-End :)
+<h1 align="center">Hi 👋, I'm Ivan aka SpeedWagon or MeloncholyShiro</h1>
+<h3 align="center">Currectly i'm learning Front-End :)</h3>
 
-![meloncholyshiro](https://komarev.com/ghpvc/?username=meloncholyshiro)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meloncholyshiro" alt="meloncholyshiro" /> </p>
 
 -   🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro)
 
@@ -23,7 +24,25 @@
 -   ⚡ Fun fact **I'm learning 12 h every day :D**
 -
 
-![vuejs](https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg) ![react](https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg) ![bootstrap](https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg) ![css3](https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg) ![docker](https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg) ![electron](https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg) ![go](https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg) ![html5](https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg) ![javascript](https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg) ![typescript](https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg) ![mongodb](https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg) ![mysql](https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg) ![sass](https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg) ![nodejs](https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg) ![nginx](https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg) ![linux](https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg) ![redux](https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg) ![webpack](https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg) ![express](https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg)
+![vuejs](https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg){:height="20px" width="20px"}
+![react](https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg){:height="20px" width="20px"}
+![bootstrap](https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg){:height="20px" width="20px"}
+![css3](https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg){:height="20px" width="20px"}
+![docker](https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg){:height="20px" width="20px"}
+![electron](https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg){:height="20px" width="20px"}
+![go](https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg){:height="20px" width="20px"}
+![html5](https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg){:height="20px" width="20px"}
+![javascript](https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg){:height="20px" width="20px"}
+![typescript](https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg){:height="20px" width="20px"}
+![mongodb](https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg){:height="20px" width="20px"}
+![mysql](https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg){:height="20px" width="20px"}
+![sass](https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg){:height="20px" width="20px"}
+![nodejs](https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg){:height="20px" width="20px"}
+![nginx](https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg){:height="20px" width="20px"}
+![linux](https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg){:height="20px" width="20px"}
+![redux](https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg){:height="20px" width="20px"}
+![webpack](https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg){:height="20px" width="20px"}
+![express](https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg){:height="20px" width="20px"}
 
 ![meloncholyshiro](https://github-readme-stats.vercel.app/api?username=meloncholyshiro&show_icons=true&theme=dracula)
 
@@ -32,3 +51,4 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
