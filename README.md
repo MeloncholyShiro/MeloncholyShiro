@@ -1,27 +1,30 @@
-### Hi there 👋
+# Hi 👋, I'm Ivan aka SpeedWagon or MeloncholyShiro
 
-<h1 align="center">Hi 👋, I'm Ivan aka SpeedWagon or MeloncholyShiro</h1>
-<h3 align="center">Correctly i'm learning Front-End :)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meloncholyshiro" alt="meloncholyshiro" /> </p>
+## Thinks about me
 
 - 🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro)
-
 - 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on [SomeName2](https://github.com/MeloncholyShiro)
-
 - 🤔 I’m looking for help with [SomeName3](https://github.com/MeloncholyShiro)
-
 - 👨‍💻 All of my projects are available at [mrSpeedWagon.com](mrSpeedWagon.com)
-
 - 📝 I regularity write articles on [mrSpeedWagon.com](mrSpeedWagon.com)
-
 - 💬 Ask me about **react, vue, nuxt**
-
 - 📫 How to reach me **Meloncholy.Shiro@yandex.com**
-
 - ⚡ Fun fact **I'm learning 12 h every day :D**
+
+## Connect with me
+
+----
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+## Languages and Tools
+
+----
 
 <p align="left">
 <a href="#">
@@ -135,3 +138,15 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=meloncholyshiro" alt="meloncholyshiro" /> </p>
+
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
