@@ -16,11 +16,11 @@
 
 ## Connect with me
 
-[<img align="left" alt="MeloncholyShiro | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MeloncholyShiro | YouTube" width="22px" src="https://api.iconify.design/logos:youtube.svg" />][youtube]
-[<img align="left" alt="MeloncholyShiro | Twitter" width="22px" src="https://api.iconify.design/logos:twitter.svg" />][twitter]
-[<img align="left" alt="MeloncholyShiro | LinkedIn" width="22px" src="https://api.iconify.design/logos:linkedin.svg" />][linkedin]
-[<img align="left" alt="MeloncholyShiro | Instagram" width="22px" src="https://api.iconify.design/logos:instagram.svg" />][instagram]
+[<img align="left" alt="MeloncholyShiro | Website" height="22px" src="https://api.iconify.design/noto-v1:globe-showing-europe-africa.svg" />][website]
+[<img align="left" alt="MeloncholyShiro | YouTube" height="22px" src="https://api.iconify.design/logos:youtube.svg" />][youtube]
+[<img align="left" alt="MeloncholyShiro | Twitter" height="22px" src="https://api.iconify.design/logos:twitter.svg" />][twitter]
+[<img align="left" alt="MeloncholyShiro | LinkedIn" height="22px" src="https://api.iconify.design/logos:linkedin.svg" />][linkedin]
+[<img align="left" alt="MeloncholyShiro | Instagram" height="22px" src="https://api.iconify.design/logos:instagram.svg" />][instagram]
 
 <br />
 
@@ -28,32 +28,32 @@
 
 ### Writing code on
 
-[<img align="left" alt="Visual Studio Code" width="22px" src="https://api.iconify.design/logos:visual-studio-code.svg" />][#]
+[<img align="left" alt="Visual Studio Code" height="22px" src="https://api.iconify.design/logos:visual-studio-code.svg" />][#]
 
 <br />
 
 ### Building
 
-[<img align="left" alt="Webpack" width="22px" src="https://api.iconify.design/logos:webpack.svg" />][#]
+[<img align="left" alt="Webpack" height="22px" src="https://api.iconify.design/logos:webpack.svg" />][#]
 
 <br />
 
 ### Deploy
 
-[<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][#]
-[<img align="left" alt="Nginx" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />][#]
-[<img align="left" alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][#]
+[<img align="left" alt="Linux" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][#]
+[<img align="left" alt="Nginx" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />][#]
+[<img align="left" alt="Docker" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][#]
 
 <br />
 
 ### Front-End
 
-[<img align="left" alt="HTML" width="22px" src="https://api.iconify.design/logos:html-5.svg" />][#]
-[<img align="left" alt="CSS3" width="22px" src="https://api.iconify.design/logos:css-3.svg" />][#]
-[<img align="left" alt="JavaScript" width="22px" src="https://api.iconify.design/logos:javascript.svg" />][#]
-[<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][#]
-[<img align="left" alt="Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][#]
-[<img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />][#]
+[<img align="left" alt="HTML" height="22px" src="https://api.iconify.design/logos:html-5.svg" />][#]
+[<img align="left" alt="CSS3" height="22px" src="https://api.iconify.design/logos:css-3.svg" />][#]
+[<img align="left" alt="JavaScript" height="22px" src="https://api.iconify.design/logos:javascript.svg" />][#]
+[<img align="left" alt="React" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][#]
+[<img align="left" alt="Redux" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][#]
+[<img align="left" alt="Vue" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />][#]
 
 <br />
 
