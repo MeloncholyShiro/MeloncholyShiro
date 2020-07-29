@@ -32,7 +32,7 @@
 
 ### Building
 
-[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />][#]
+[<img align="left" alt="Webpack" width="22px" src="https://api.iconify.design/logos:webpack.svg" />][#]
 
 <br />
 
