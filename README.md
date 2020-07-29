@@ -46,12 +46,12 @@
 
 ### Front-End
 
-[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />][#]
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][#]
 [<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][#]
 [<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][#]
 [<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][#]
 [<img align="left" alt="Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][#]
-[<img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue.js.svg" />][#]
+[<img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />][#]
 
 <br />
 
@@ -67,11 +67,11 @@
 
 ### Back-End
 
-[<img align="left" alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node.js.svg" />][#]
+[<img align="left" alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />][#]
 [<img align="left" alt="Deno" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deno.svg" />][#]
 [<img align="left" alt="Nodemon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodemon.svg" />][#]
 [<img align="left" alt="Express" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" />][#]
-[<img align="left" alt="GraphQL" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/express/graphql.svg" />][#]
+[<img align="left" alt="GraphQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />][#]
 
 <br />
 
@@ -84,7 +84,7 @@
 
 ### Full-Stack (SSR)
 
-[<img align="left" alt="NuxtJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nuxt.js.svg" />][#]
+[<img align="left" alt="NuxtJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nuxt-dot-js.svg" />][#]
 
 <!-- <p align="center">
 <a href="https://codepen.io/meloncholyshiro_codepan" target="blank">
