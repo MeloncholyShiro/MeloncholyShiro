@@ -130,10 +130,10 @@
 </a>
 </p> -->
 
-[<img align="center" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
-[<img align="center" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
-[<img align="center" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
-[<img align="center" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img align="left" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img align="left" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img align="right" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img align="right" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
 
 <br />
 
