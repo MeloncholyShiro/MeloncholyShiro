@@ -2,15 +2,15 @@
 
 ## Thinks about me
 
-- 🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro)
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on [SomeName2](https://github.com/MeloncholyShiro)
-- 🤔 I’m looking for help with [SomeName3](https://github.com/MeloncholyShiro)
-- 👨‍💻 All of my projects are available at [mrSpeedWagon.com](mrSpeedWagon.com)
-- 📝 I regularity write articles on [mrSpeedWagon.com](mrSpeedWagon.com)
-- 💬 Ask me about **react, vue, nuxt**
-- 📫 How to reach me **Meloncholy.Shiro@yandex.com**
-- ⚡ Fun fact **I'm learning 12 h every day :D**
+-   🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro)
+-   🌱 I’m currently learning **React**
+-   👯 I’m looking to collaborate on [SomeName2](https://github.com/MeloncholyShiro)
+-   🤔 I’m looking for help with [SomeName3](https://github.com/MeloncholyShiro)
+-   👨‍💻 All of my projects are available at [mrSpeedWagon.com](mrSpeedWagon.com)
+-   📝 I regularity write articles on [mrSpeedWagon.com](mrSpeedWagon.com)
+-   💬 Ask me about **react, vue, nuxt**
+-   📫 How to reach me **Meloncholy.Shiro@yandex.com**
+-   ⚡ Fun fact **I'm learning 12 h every day :D**
 
 ## Connect with me
 
@@ -130,14 +130,14 @@
 </a>
 </p> -->
 
-[<img align="center" alt="MeloncholyShiro | CPSProject" width="22px" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][CPSProject]
-[<img align="center" alt="MeloncholyShiro | CPSProject" width="22px" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][CPSProject]
-[<img align="center" alt="MeloncholyShiro | CPSProject" width="22px" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][CPSProject]
-[<img align="center" alt="MeloncholyShiro | CPSProject" width="22px" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][CPSProject]
+[<img align="center" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img align="center" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img align="center" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img align="center" alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
 
 <br />
 
-[<img align="center" alt="meloncholyshiro | speedwagon" width="22px" src="https://github-readme-stats.vercel.app/api?username=meloncholyshiro&show_icons=true&theme=dracula" />][CPSProject]
+[<img align="center" alt="meloncholyshiro | speedwagon" src="https://github-readme-stats.vercel.app/api?username=meloncholyshiro&show_icons=true&theme=dracula" />][cpsproject]
 
 <br />
 
@@ -152,4 +152,4 @@
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
 [#]: https://github.com/MeloncholyShiro
-[CPSProject]: https://github.com/meloncholyshiro/cpsproject
+[cpsproject]: https://github.com/meloncholyshiro/cpsproject
