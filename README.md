@@ -24,7 +24,7 @@
 -   ⚡ Fun fact **I'm learning 12 h every day :D**
 -
 
-<p align="center">
+<p align="left">
 <a href="">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20">
 </a>
@@ -84,7 +84,6 @@
 </a>
 </p>
 
-<p align="center">
 [![meloncholyshiro_codepan](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg)](https://codepen.io/meloncholyshiro_codepan)
 [![meloncholyshiro_dev.to](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg)](https://dev.to/meloncholyshiro_dev.to)
 [![meloncholyshiro_twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/meloncholyshiro_twitter)
@@ -106,7 +105,6 @@
 
 ![meloncholyshiro](https://github-readme-stats.vercel.app/api?username=meloncholyshiro&show_icons=true&theme=dracula)
 
-</p>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
