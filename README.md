@@ -1,28 +1,27 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ivan aka SpeedWagon or MeloncholyShiro</h1>
-<h3 align="center">Currectly i'm learning Front-End :)</h3>
+<h3 align="center">Correctly i'm learning Front-End :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meloncholyshiro" alt="meloncholyshiro" /> </p>
 
--   🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro)
+- 🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro)
 
--   🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**
 
--   👯 I’m looking to collaborate on [SomeName2](https://github.com/MeloncholyShiro)
+- 👯 I’m looking to collaborate on [SomeName2](https://github.com/MeloncholyShiro)
 
--   🤔 I’m looking for help with [SomeName3](https://github.com/MeloncholyShiro)
+- 🤔 I’m looking for help with [SomeName3](https://github.com/MeloncholyShiro)
 
--   👨‍💻 All of my projects are available at [mrSpeedWagon.com](mrSpeedWagon.com)
+- 👨‍💻 All of my projects are available at [mrSpeedWagon.com](mrSpeedWagon.com)
 
--   📝 I regulary write articles on [mrSpeedWagon.com](mrSpeedWagon.com)
+- 📝 I regularity write articles on [mrSpeedWagon.com](mrSpeedWagon.com)
 
--   💬 Ask me about **react, vue, nuxt**
+- 💬 Ask me about **react, vue, nuxt**
 
--   📫 How to reach me **Meloncholy.Shiro@yandex.com**
+- 📫 How to reach me **Meloncholy.Shiro@yandex.com**
 
--   ⚡ Fun fact **I'm learning 12 h every day :D**
--
+- ⚡ Fun fact **I'm learning 12 h every day :D**
 
 <p align="left">
 <a href="#">
