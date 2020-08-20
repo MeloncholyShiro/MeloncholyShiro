@@ -40,7 +40,7 @@
 
 ### Deploy
 
-[<img align="left" alt="Linux" height="25px" src="https://api.iconify.design/logos:linux-tux.svg" />][#]
+[<img align="left" alt="Linux" height="25px" src="https://api.iconify.design/cib:linux.svg" />][#]
 [<img align="left" alt="Nginx" height="25px" src="https://api.iconify.design/logos:nginx.svg" />][#]
 [<img align="left" alt="Docker" height="25px" src="https://api.iconify.design/logos:docker-icon.svg" />][#]
 
@@ -80,7 +80,7 @@
 ### Data Bases
 
 <!--[<img align="left" alt="mySQL" height="25px" src="https://api.iconify.design/logos:mysql.svg" />][#]-->
-[<img align="left" alt="MongoDB" height="25px" src="https://api.iconify.design/logos:mongodb.svg />][#]
+[<img align="left" alt="MongoDB" height="25px" src="https://api.iconify.design/logos:mongodb.svg" />][#]
 
 <br />
 <!--
