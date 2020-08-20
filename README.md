@@ -2,25 +2,25 @@
 
 ## Thinks about me
 
-- 🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro)
+<!-- - 🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro) -->
 - 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on [SomeName2](https://github.com/MeloncholyShiro)
+<!--- 👯 I’m looking to collaborate on [SomeName2](https://github.com/MeloncholyShiro)
 - 🤔 I’m looking for help with [SomeName3](https://github.com/MeloncholyShiro)
 - 👨‍💻 All of my projects are available at [mrSpeedWagon.com](mrSpeedWagon.com)
-- 📝 I regularity write articles on [mrSpeedWagon.com](mrSpeedWagon.com)
-- 💬 Ask me about **react, vue, nuxt**
+- 📝 I regularity write articles on [mrSpeedWagon.com](mrSpeedWagon.com)-->
+- 💬 Ask me about **JS :)**
 - 📫 How to reach me **Meloncholy.Shiro@yandex.com**
 - ⚡ Fun fact **I'm learning 12 h every day :D**
 
->If icon **Colorize** it mean i can fully work this stuff, if color **Monochrome** it mean i only **Learn** this item
+/* >If icon **Colorize** it mean i can fully work this stuff, if color **Monochrome** it mean i only **Learn** this item */
 
 ## Connect with me
 
-[<img align="left" alt="MeloncholyShiro | Website" height="25px" src="https://api.iconify.design/noto-v1:globe-showing-europe-africa.svg" />][website]
 [<img align="left" alt="MeloncholyShiro | VK" height="25px" src="https://api.iconify.design/cib:vk.svg" />][vk]
+<!--[<img align="left" alt="MeloncholyShiro | Website" height="25px" src="https://api.iconify.design/noto-v1:globe-showing-europe-africa.svg" />][website]
 [<img align="left" alt="MeloncholyShiro | Twitter" height="25px" src="https://api.iconify.design/logos:twitter.svg" />][twitter]
 [<img align="left" alt="MeloncholyShiro | LinkedIn" height="25px" src="https://api.iconify.design/logos:linkedin.svg" />][linkedin]
-[<img align="left" alt="MeloncholyShiro | Instagram" height="25px" src="https://api.iconify.design/logos:instagram-icon.svg" />][instagram]
+[<img align="left" alt="MeloncholyShiro | Instagram" height="25px" src="https://api.iconify.design/logos:instagram-icon.svg" />][instagram]-->
 
 <br />
 
@@ -40,9 +40,9 @@
 
 ### Deploy
 
-[<img align="left" alt="Linux" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][#]
-[<img align="left" alt="Nginx" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />][#]
-[<img align="left" alt="Docker" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][#]
+[<img align="left" alt="Linux" height="25px" src="https://api.iconify.design/logos:linux-tux.svg" />][#]
+[<img align="left" alt="Nginx" height="25px" src="https://api.iconify.design/logos:nginx.svg" />][#]
+[<img align="left" alt="Docker" height="25px" src="https://api.iconify.design/logos:docker-icon.svg" />][#]
 
 <br />
 
@@ -51,17 +51,17 @@
 [<img align="left" alt="HTML" height="25px" src="https://api.iconify.design/logos:html-5.svg" />][#]
 [<img align="left" alt="CSS3" height="25px" src="https://api.iconify.design/logos:css-3.svg" />][#]
 [<img align="left" alt="JavaScript" height="25px" src="https://api.iconify.design/logos:javascript.svg" />][#]
-[<img align="left" alt="React" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][#]
+<!--[<img align="left" alt="React" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][#]
 [<img align="left" alt="Redux" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][#]
-[<img align="left" alt="Vue" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />][#]
+[<img align="left" alt="Vue" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />][#]-->
 
 <br />
 
 ### CSS-Frameworks
 
 [<img align="left" alt="SASS | SCSS" height="25px" src="https://api.iconify.design/logos:sass.svg" />][#]
-[<img align="left" alt="Tailwind CSS" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" />][#]
-[<img align="left" alt="Vuetify" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vuetify.svg" />][#]
+[<img align="left" alt="Tailwind CSS" height="25px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" />][#]
+<!--[<img align="left" alt="Vuetify" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vuetify.svg" />][#]-->
 [<img align="left" alt="Bulma" height="25px" src="https://api.iconify.design/logos:bulma.svg" />][#]
 [<img align="left" alt="Bootstrap 5" height="25px" src="https://api.iconify.design/logos:bootstrap.svg" />][#]
 
@@ -70,26 +70,27 @@
 ### Back-End
 
 [<img align="left" alt="NodeJS" height="25px" src="https://api.iconify.design/logos:nodejs-icon.svg" />][#]
-[<img align="left" alt="Deno" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deno.svg" />][#]
+<!--[<img align="left" alt="Deno" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deno.svg" />][#]
 [<img align="left" alt="Nodemon" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodemon.svg" />][#]
 [<img align="left" alt="Express" height="25px" src="https://api.iconify.design/logos:express.svg" />][#]
-[<img align="left" alt="GraphQL" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />][#]
+[<img align="left" alt="GraphQL" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />][#]-->
 
 <br />
 
 ### Data Bases
 
-[<img align="left" alt="mySQL" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][#]
-[<img align="left" alt="MongoDB" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][#]
+<!--[<img align="left" alt="mySQL" height="25px" src="https://api.iconify.design/logos:mysql.svg" />][#]-->
+[<img align="left" alt="MongoDB" height="25px" src="https://api.iconify.design/logos:mongodb.svg />][#]
 
 <br />
-
+<!--
 ### Full-Stack (SSR)
-
+-->
+<!--
 [<img align="left" alt="NuxtJS" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nuxt-dot-js.svg" />][#]
-
-<br />
-
+--><!--
+<br /> 
+-->
 ----
 <!-- <p align="center">
 <a href="https://codepen.io/meloncholyshiro_codepan" target="blank">
@@ -132,11 +133,11 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="meloncholyshiro_youtube" height="20" width="20" />
 </a>
 </p> -->
-
+<!--
 [<img alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
 [<img alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
 [<img alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
-[<img alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject]
+[<img alt="MeloncholyShiro | CPSProject" src="https://github-readme-stats.vercel.app/api/pin/?username=meloncholyshiro&repo=cpsproject&show_icons=true&theme=dracula" />][cpsproject] -->
 
 <br />
 
