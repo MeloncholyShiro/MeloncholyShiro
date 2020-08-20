@@ -12,7 +12,7 @@
 - 📫 How to reach me **Meloncholy.Shiro@yandex.com**
 - ⚡ Fun fact **I'm learning 12 h every day :D**
 
-/* >If icon **Colorize** it mean i can fully work this stuff, if color **Monochrome** it mean i only **Learn** this item */
+<!-- >If icon **Colorize** it mean i can fully work this stuff, if color **Monochrome** it mean i only **Learn** this item -->
 
 ## Connect with me
 
