@@ -3,14 +3,15 @@
 ## Thinks about me
 
 <!-- - 🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro) -->
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React && Redux**
+- 💬 Ask me about **HTML, CSS, Accessibility, JS && React 😉**
+- 📫 How to reach me **Meloncholy.Shiro@yandex.com**
+- ⚡ Fun fact **I love Anime && VideoGames 😏**
+
 <!--- 👯 I’m looking to collaborate on [SomeName2](https://github.com/MeloncholyShiro)
 - 🤔 I’m looking for help with [SomeName3](https://github.com/MeloncholyShiro)
 - 👨‍💻 All of my projects are available at [mrSpeedWagon.com](mrSpeedWagon.com)
 - 📝 I regularity write articles on [mrSpeedWagon.com](mrSpeedWagon.com)-->
-- 💬 Ask me about **JS :)**
-- 📫 How to reach me **Meloncholy.Shiro@yandex.com**
-- ⚡ Fun fact **I'm learning 12 h every day :D**
 
 <!-- >If icon **Colorize** it mean i can fully work this stuff, if color **Monochrome** it mean i only **Learn** this item -->
 
@@ -51,9 +52,9 @@
 [<img align="left" alt="HTML" height="25px" src="https://api.iconify.design/logos:html-5.svg" />][#]
 [<img align="left" alt="CSS3" height="25px" src="https://api.iconify.design/logos:css-3.svg" />][#]
 [<img align="left" alt="JavaScript" height="25px" src="https://api.iconify.design/logos:javascript.svg" />][#]
-<!--[<img align="left" alt="React" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][#]
+[<img align="left" alt="React" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][#]
 [<img align="left" alt="Redux" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][#]
-[<img align="left" alt="Vue" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />][#]-->
+<!--[<img align="left" alt="Vue" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />][#]-->
 
 <br />
 
