@@ -52,8 +52,8 @@
 [<img align="left" alt="HTML" height="25px" src="https://api.iconify.design/logos:html-5.svg" />][#]
 [<img align="left" alt="CSS3" height="25px" src="https://api.iconify.design/logos:css-3.svg" />][#]
 [<img align="left" alt="JavaScript" height="25px" src="https://api.iconify.design/logos:javascript.svg" />][#]
-[<img align="left" alt="React" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][#]
-[<img align="left" alt="Redux" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][#]
+[<img align="left" alt="React" height="25px" src="https://api.iconify.design/logos:react.svg" />][#]
+[<img align="left" alt="Redux" height="25px" src="https://api.iconify.design/logos:redux.svg" />][#]
 <!--[<img align="left" alt="Vue" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />][#]-->
 
 <br />
