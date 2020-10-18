@@ -1,6 +1,8 @@
 name: Waka
 
 on:
+  push:
+    branches: 'master'
   schedule:
     # Runs every day at 00:00 UTC
     - cron: '10 10 * * *'
