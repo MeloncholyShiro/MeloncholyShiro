@@ -2,8 +2,8 @@
 
 ## Thinks about me
 
-<!-- - 🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro) -->
-- 🌱 I’m currently learning **React && Redux**
+<!-- - 🔭 I’m currently working on [SomeName](https://github.com/MeloncholyShiro)
+- 🌱 I’m currently learning **React && Redux** -->
 - 💬 Ask me about **HTML, CSS, Accessibility, JS && React 😉**
 - 📫 How to reach me **Meloncholy.Shiro@yandex.com**
 - ⚡ Fun fact **I love Anime && VideoGames 😏**
