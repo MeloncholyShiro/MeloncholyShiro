@@ -67,10 +67,6 @@
 
 <br />
 
-[<img alt="meloncholyshiro | speedwagon" src="https://github-readme-stats.vercel.app/api?username=meloncholyshiro&show_icons=true&theme=dracula" />][cpsproject]
-
-<br />
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
