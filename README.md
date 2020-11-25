@@ -70,7 +70,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My Github Data** 
 
@@ -111,11 +111,14 @@ Sunday       17 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     10 mins             ██████████████░░░░░░░░░░░   57.73% 
-CSS                      7 mins              ██████████░░░░░░░░░░░░░░░   42.27%
+TypeScript               24 mins             █████████░░░░░░░░░░░░░░░░   36.15% 
+JSON                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   22.26% 
+HTML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.01% 
+CSS                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.96%
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+VS Code                  1 hr 6 mins         █████████████████████████   100.0%
 
 ```
 
@@ -129,7 +132,7 @@ TypeScript               3 repos             ███████████�
 
 **Timeline**
 
-![Chart not found](https://github.com/MeloncholyShiro/MeloncholyShiro/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/MeloncholyShiro/MeloncholyShiro/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
