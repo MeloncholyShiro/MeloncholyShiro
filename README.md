@@ -70,7 +70,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 **🐱 My Github Data** 
 
@@ -80,9 +80,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 4 Public Repositories
+> 📜 4 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+4 Private Repository 
  > 
 **I'm an Early 🐤** 
 
