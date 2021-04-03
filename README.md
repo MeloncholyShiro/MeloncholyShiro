@@ -74,13 +74,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 25 Contributions in the Year 2021
+> 🏆 26 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -121,7 +121,8 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               4 repos             █████████████████████████   100.0%
+TypeScript               4 repos             ████████████████████░░░░░   80.0% 
+CSS                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
 
