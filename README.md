@@ -121,9 +121,9 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               4 repos             ████████████████░░░░░░░░░   66.67% 
-CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+TypeScript               4 repos             ██████████████░░░░░░░░░░░   57.14% 
+HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
